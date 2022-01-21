@@ -5,7 +5,7 @@
 - 💬 Pergunte-me sobre qualquer coisa. Se eu souber irei lhe ajudar, se não irei lhe ajudar a procurar a resposta.
 
 
-### Fique a vontade.
+### Fique à vontade.
 <div>
 <a href="https://github.com/jhonatasal">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatasal&layout=compact&langs_count=7&theme=merko"/>
