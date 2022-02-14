@@ -1,7 +1,7 @@
 ## Olá, sou Jhonatas. Bem vindo ao meu perfil do GitHub.
 
 - 🔭 Atualmente estou trabalhando na <a href="https://zallpy.com/" target="_blank">Zallpy</a>
-- 🌱 Atualmente estou aprendendo Java
+- 🌱 Atualmente estou aprendendo Java, Flutter, Aws.
 - 💬 Pergunte-me sobre qualquer coisa. Se eu souber irei lhe ajudar, se não irei lhe ajudar a procurar a resposta.
 
 
