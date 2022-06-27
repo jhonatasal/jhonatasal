@@ -14,7 +14,7 @@
   
 ### Ja passei por:
 <div>
-<a href="https://rjconsultores.com.br/site/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C560BAQEICPMruSELaw/company-logo_200_200/0/1559823873259?e=1655942400&v=beta&t=5ltGxuIt1SuGlXmreuswLapKq3VVRM9Rg_TWfDH9tNs";
+<a href="https://rjconsultores.com.br/site/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="[https://instagram.fplu20-1.fna.fbcdn.net/v/t51.288…87NMdODq2Mwte5Ct4eT00Q&oe=62C0ADA6&_nc_sid=5cbaad](https://instagram.fplu20-1.fna.fbcdn.net/v/t51.2885-19/100989231_2187543041391750_3512324774636290048_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fplu20-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=u6FB0QwfLwkAX_5mSl8&tn=UehsEqW8snYOIK_j&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9pam_WyvO5d__pOZ52AgGQ87NMdODq2Mwte5Ct4eT00Q&oe=62C0ADA6&_nc_sid=5cbaad)";
         alt="RJ Consultores"></a>
         <a href="https://zallpy.com/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://remotar.com.br/wp-content/uploads/2022/05/Zallpy-Digital.jpg";
         alt="Zallpy"></a>
