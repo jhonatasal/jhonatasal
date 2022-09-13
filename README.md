@@ -14,9 +14,9 @@
   
 ### Ja passei por:
 <div>
-<a href="https://rjconsultores.com.br/site/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://instagram.fplu20-1.fna.fbcdn.net/v/t51.2885-19/100989231_2187543041391750_3512324774636290048_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fplu20-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=u6FB0QwfLwkAX_5mSl8&tn=UehsEqW8snYOIK_j&edm=AHG7ALcBAAAA&ccb=7-5&oh=00_AT9pam_WyvO5d__pOZ52AgGQ87NMdODq2Mwte5Ct4eT00Q&oe=62C0ADA6&_nc_sid=5cbaad";
+<a href="https://rjconsultores.com.br/site/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://github.com/jhonatasal/jhonatasal/blob/main/logo-rjconsultores-color-h.png";
         alt="RJ Consultores"></a>
-        <a href="https://zallpy.com/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://instagram.fplu20-1.fna.fbcdn.net/v/t51.2885-19/285387476_4025592627665722_7802975671255443134_n.jpg?stp=dst-jpg_s150x150&_nc_ht=instagram.fplu20-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=fE2xQ_jGTC4AX-k_Uyu&edm=ALbqBD0BAAAA&ccb=7-5&oh=00_AT9VXKVQjBZdBgtMFbpi-rYvNWg4bIBYTSCNMi9TT2sMdA&oe=62C0D92E&_nc_sid=9a90d6";
+        <a href="https://zallpy.com/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://github.com/jhonatasal/jhonatasal/blob/main/logo-zallpy.png";
         alt="Zallpy"></a>
  </div>
   
