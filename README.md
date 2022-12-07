@@ -14,11 +14,13 @@
   
 ### Ja passei por:
 <div>
-<a href="https://rjconsultores.com.br/site/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://github.com/jhonatasal/jhonatasal/blob/main/logo-rjconsultores-color-h.png";
+        <a href="https://rjconsultores.com.br" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://github.com/jhonatasal/jhonatasal/blob/main/logo-rjconsultores-color-h.png";
         alt="RJ Consultores"></a>
+  
         <a href="https://zallpy.com/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://github.com/jhonatasal/jhonatasal/blob/main/logo-zallpy.png";
         alt="Zallpy"></a>
-  <a href="ciandt.com/br/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://github.com/jhonatasal/jhonatasal/blob/main/ciandt.png";
+  
+        <a href="https://ciandt.com/br/" target="_blank"><img  style="height: 100px; width:100px; border-radius:50px;" src="https://github.com/jhonatasal/jhonatasal/blob/main/ciandt.png";
         alt="CI&T"></a>
  </div>
   
