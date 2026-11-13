@@ -1,34 +1,31 @@
-# Jhonatas Alves
+# Opa, eu sou o Jhonatas 👋
 
-**Software Engineer · Backend, Engenharia de Plataforma e Sistemas Distribuídos**
+**Software Engineer no Mercado Livre** · Backend, plataforma e sistemas distribuídos
 
-Java · Go · AWS · Kubernetes · Observabilidade
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square)](https://www.linkedin.com/in/jhonatas-alves-79012115b/)
+![Java](https://img.shields.io/badge/Java-Backend-E76F00?style=flat-square)
+![Go](https://img.shields.io/badge/Go-Backend-00ADD8?style=flat-square&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-Cloud-232F3E?style=flat-square)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Platform-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-Belo Horizonte, MG, Brasil · [LinkedIn](https://www.linkedin.com/in/jhonatas-alves-79012115b/)
+Comecei no suporte, investigando problemas com SQL e Linux. Hoje, escrevo **Java e Go** e gosto de construir ferramentas que tiram trabalho repetitivo do caminho de outros devs.
 
-Desenvolvo serviços de backend e ferramentas de plataforma para simplificar o trabalho de outros times de engenharia e tornar sistemas críticos mais fáceis de operar e evoluir. Minha trajetória inclui mobilidade, e-commerce e serviços financeiros, com experiência em liderança técnica.
+### 🎙️ No que estou mexendo agora
 
-## Experiência
+No **Mercado Livre**, desenvolvo serviços para uma plataforma que conecta chamadas telefônicas a agentes de IA. Trabalho com sessões, geração de áudio e integrações em tempo real via WebSockets. Também venho explorando WebRTC para evoluir os fluxos de voz.
 
-- **Mercado Livre · Software Engineer · 2026–atual**  
-  Desenvolvo serviços em Java e Go para uma plataforma de comunicação por voz integrada à rede telefônica (PSTN). Trabalho com integrações em tempo real, gerenciamento de sessões, geração de áudio e agentes conversacionais com LLMs. Uso WebSockets e exploro WebRTC para evoluir os fluxos de comunicação em tempo real.
-- **CI&T · Desenvolvedor Java Sênior e Líder Técnico · 2022–2025**  
-  Atuei como líder técnico no time de plataforma do Portal do Corretor da Porto Seguro, criando ferramentas internas e padronizando processos para os times de produto. Antes disso, desenvolvi bibliotecas reutilizáveis e automações para equipes de engenharia do setor bancário.
-- **Zallpy Digital · Desenvolvedor Java · 2022**  
-  Desenvolvi funcionalidades para o programa de fidelidade da Unicred e integrei serviços em Quarkus e AWS a sistemas legados.
-- **RJ Consultores · Desenvolvimento de Software · 2019–2022**  
-  Trabalhei na evolução de microsserviços Java, APIs REST e SOAP e integrações com empresas do setor rodoviário.
+### 🛠️ Por onde passei
 
-## Tecnologias e práticas
+- **CI&T** · Fui líder técnico no time de plataforma do Portal do Corretor da Porto Seguro. Criei ferramentas internas e padronizei processos para os times de produto. Antes disso, desenvolvi bibliotecas e automações para equipes do setor bancário.
+- **Zallpy** · Desenvolvi funcionalidades para o programa de fidelidade da Unicred e integrei serviços em Quarkus e AWS a sistemas legados.
+- **RJ Consultores** · Trabalhei com microsserviços Java e integrações no setor rodoviário.
 
-| Área | Tecnologias |
-| --- | --- |
-| Backend e integrações | Java, Go, Spring Boot, Quarkus, REST |
-| Cloud e mensageria | AWS, Kubernetes (EKS), ECS, Docker, SQS, SNS, EventBridge |
-| Dados | PostgreSQL, Redis, DynamoDB |
-| Observabilidade e testes | Grafana, Dynatrace, CloudWatch, JUnit, WireMock |
-| Comunicação em tempo real | PSTN, WebSockets, WebRTC, agentes conversacionais |
+Além de Java e Go, já trabalhei com **Spring Boot, Quarkus, PostgreSQL, Redis e mensageria na AWS**. Para acompanhar o que acontece em produção, uso ferramentas como Grafana, Dynatrace e CloudWatch.
 
-## Projeto pessoal
+### 🛒 Um projeto que saiu do papel
 
-**Barato Plus** é um app para comparar preços, registrar compras pela leitura de NFC-e e organizar listas de compras. Desenvolvo o aplicativo em Flutter e o backend em Java com Spring Boot, PostgreSQL e Redis. [Barato Plus na Google Play](https://play.google.com/store/apps/details?id=br.com.baratoplus)
+Criei o **Barato Plus** para resolver uma dúvida de mercado: *onde esse produto está mais barato?* O app compara preços, lê a NFC-e para registrar compras e ajuda a organizar a lista da próxima ida ao mercado.
+
+**Flutter** no app · **Spring Boot, PostgreSQL e Redis** no backend
+
+[Ver o Barato Plus na Google Play ↗](https://play.google.com/store/apps/details?id=br.com.baratoplus)
